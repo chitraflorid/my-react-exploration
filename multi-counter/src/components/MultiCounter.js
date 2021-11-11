@@ -1,5 +1,6 @@
 import {Component} from 'react';
 import Counter from './Counter';
+import Total from './Total';
 
 class MultiCounter extends Component {
   constructor(props, context) {
